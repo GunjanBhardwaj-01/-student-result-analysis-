@@ -74,3 +74,8 @@ How It Works? ⚙️
 .Results are visualized with graphs to show trends and comparisons over time.
 
 .Finally, a web dashboard displays real-time updates so teachers can easily monitor and act on the results.
+
+#
+Author: ✍️
+
+Gunjan Bhardwaj
