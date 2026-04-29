@@ -65,7 +65,7 @@ Highlights key metrics like average scores.
 #
 
 
-How It Works ⚙️
+How It Works? ⚙️
 
 .First, student data is collected from exam scores and assignments.
 
