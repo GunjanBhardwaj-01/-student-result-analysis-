@@ -3,7 +3,7 @@
  "This project analyzes student result data. It helps understand students' scores, grades, and overall performance. The goal is to provide insights and trends to support better academic decisions.
 
 #
-🚀 Features:
+# 🚀 Features:
 
 Data Collection: 📊
 
@@ -39,7 +39,7 @@ Highlights key metrics like average scores.
 
 #
 
-⚙Technologies Used: 
+# ⚙Technologies Used: 
 
 
 .Python for data processing and analysis.
@@ -52,7 +52,7 @@ Highlights key metrics like average scores.
 
 #
 
-🗂️ Project Structure:
+# 🗂️ Project Structure:
 
 .Organized by modules: data input, analysis, and result visualization.
 
@@ -65,7 +65,7 @@ Highlights key metrics like average scores.
 #
 
 
-How It Works? ⚙️
+# How It Works? ⚙️
 
 .First, student data is collected from exam scores and assignments.
 
@@ -76,6 +76,6 @@ How It Works? ⚙️
 .Finally, a web dashboard displays real-time updates so teachers can easily monitor and act on the results.
 
 #
-Author: ✍️
+# Author: ✍️
 
 Gunjan Bhardwaj
